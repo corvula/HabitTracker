@@ -1,9 +1,5 @@
 # HabitTracker - iOS Додаток для Відстеження Звичок
 
-[![Swift Version](https://img.shields.io/badge/Swift-5.5+-orange.svg)](https://swift.org)
-[![iOS Version](https://img.shields.io/badge/iOS-15.0+-blue.svg)](https://developer.apple.com/ios/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
 Мінімалістичний iOS додаток для формування та відстеження корисних звичок з інтеграцією HealthKit.
 
 <img width="1206" height="2622" alt="main-screen-light" src="https://github.com/user-attachments/assets/ca966530-f3b9-4061-8b53-9d0ef3001701" />
