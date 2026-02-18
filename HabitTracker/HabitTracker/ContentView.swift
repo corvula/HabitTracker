@@ -17,7 +17,6 @@ struct ContentView: View {
                         if viewModel.habits.isEmpty {
                             emptyStateView
                         } else {
-                            // Сортування за пріоритетом
                             ForEach(sortedHabits) { habit in
                                 HabitCard(habit: habit, viewModel: viewModel)
                             }
