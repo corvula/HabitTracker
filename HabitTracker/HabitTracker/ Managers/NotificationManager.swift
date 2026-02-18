@@ -17,7 +17,7 @@ class NotificationManager: ObservableObject {
     
     func scheduleNotification(for habit: Habit, at time: Date) {
         let content = UNMutableNotificationContent()
-        content.title = "Час для звички! 🎯"
+        content.title = "Час для звички!"
         content.body = "\(habit.name) - не забудьте виконати!"
         content.sound = .default
         
